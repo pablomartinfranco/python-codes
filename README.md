@@ -1,3 +1,3 @@
 ### Python codes
 
-Refactoring examples in Python
+Refactoring examples in Python for educational purposes.
